@@ -66,8 +66,8 @@ See [CONTRIBUTORS.md](CONTRIBUTORS.md) for a list of acknowledged contributors.
 
 ## Documentation of Critical Components
 
-- [Instinct-RL Documentation](https://github.com/ziwenzhuang/instinct_rl/blob/main/README.md)
-- [InstinctLab Documentation](https://github.com/ziwenzhuang/instinctlab/blob/main/DOCS.md)
+- [Instinct-RL Documentation](https://github.com/project-instinct/instinct_rl/blob/main/README.md)
+- [InstinctLab Documentation](https://github.com/project-instinct/instinctlab/blob/main/DOCS.md)
 
 ### Set up IDE (Optional)
 
